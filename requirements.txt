@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-community
+python-dotenv
+openai
+sentence-transformers
+faiss-cpu
+tavily-python
+pydantic
+requests
